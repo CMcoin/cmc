@@ -1,9 +1,9 @@
-Building AtcCoin
+Building CM Coin
 
-See doc/readme-qt.rst for instructions on building AtcCoin-Qt,
+See doc/readme-qt.rst for instructions on building CMCoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of AtcCoin.
+implementation of CM Coin.
 
-See doc/build-*.txt for instructions on building atccoind,
+See doc/build-*.txt for instructions on building CMcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of AtcCoin.
+implementation of CM Coin.
