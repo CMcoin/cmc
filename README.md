@@ -4,7 +4,6 @@ CM COin integration/staging tree
 http://www.cmcoin.info
 
 Copyright (c) 2009-2014 Bitcoin Developers
-
 Copyright (c) 2011-2014 AtcCoin Developers
 
 What is CM Coin?
@@ -13,10 +12,10 @@ What is CM Coin?
 CM Coin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~10 million total coins
+ - ~84 million total coins
 
 The rest is the same as Bitcoin.
- - 10 coins per block
+ - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
