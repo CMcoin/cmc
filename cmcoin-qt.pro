@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = atccoin-qt
-macx:TARGET = "AtcCoin-Qt"
+TARGET = cmcoin-qt
+macx:TARGET = "cmCoin-Qt"
 VERSION = 0.8.7.4
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
