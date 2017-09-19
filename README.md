@@ -4,6 +4,7 @@ CM COin integration/staging tree
 http://www.cmcoin.info
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2014 AtcCoin Developers
 
 What is CM Coin?
